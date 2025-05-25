@@ -1,5 +1,5 @@
 ## Hi there 👋
-    
+    A noob who wants to be a master!  
 <!--
 **cookie-wuren/cookie-wuren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
